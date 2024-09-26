@@ -1,0 +1,111 @@
+[33mcommit bb9a34ba01aca3405496f348dd67046e7bd4b3db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/create-server[m[33m, [m[1;31morigin/feat/create-server[m[33m)[m
+Author: Lauro <lauroliberatonneto@gmail.com>
+Date:   Thu Sep 26 20:41:01 2024 -0300
+
+    lauro!
+
+[33mcommit 4571525185c8cbfb8794dad4d012db52b9ceabd3[m
+Merge: 1a6e0b2 da6a452
+Author: yvillanova <yurimoreiravillanova1@gmail.com>
+Date:   Thu Sep 26 20:16:02 2024 -0300
+
+    Merge branch 'feat/create-server' of https://github.com/negoNegoso/iec-git into feat/create-server
+
+[33mcommit 1a6e0b20f947b1fbde0df3d14373f1406ac871a6[m
+Author: yvillanova <yurimoreiravillanova1@gmail.com>
+Date:   Thu Sep 26 20:09:15 2024 -0300
+
+    alterado response da rota
+
+[33mcommit da6a4521ec3eef426e0f768ea74dbb2af1b660c3[m
+Author: Yuri Moreira Villanova <37721359+negoNegoso@users.noreply.github.com>
+Date:   Thu Sep 26 20:01:30 2024 -0300
+
+    Update Routing.kt
+
+[33mcommit 08c47ef7bb0535f1106cc4957c46b77770641107[m
+Merge: f476669 f43cb55
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Thu Sep 26 17:37:26 2024 -0300
+
+    Merge branch 'feat/create-server' of https://github.com/negoNegoso/iec-git into feat/create-server
+
+[33mcommit f476669bd576b2d559e7675f20d8f8c2e732a6a7[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Thu Sep 26 17:32:29 2024 -0300
+
+    add readme
+
+[33mcommit f43cb5574fbb2f49b617f69d56fe5d3bfbfaf4b7[m
+Author: Yuri Moreira Villanova <37721359+negoNegoso@users.noreply.github.com>
+Date:   Thu Sep 26 17:31:11 2024 -0300
+
+    Update README.md
+
+[33mcommit a33f17d3c337157fda518b5a403825141c536f58[m
+Merge: c7bd7de 164521e
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Thu Sep 26 17:16:57 2024 -0300
+
+    Merge branch 'main' of https://github.com/negoNegoso/iec-git into feat/create-server
+
+[33mcommit c7bd7de0164681ea7e8d68ee35ca5771bc3f1241[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Thu Sep 26 17:15:52 2024 -0300
+
+    response change
+
+[33mcommit 164521eef9c974cab6be3d3613bcbc5b653f64b2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feat/desafio-dsm4-2024[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Yuri Moreira Villanova <37721359+negoNegoso@users.noreply.github.com>
+Date:   Thu Sep 26 17:04:51 2024 -0300
+
+    Update README.md conflict
+
+[33mcommit b684904cab0e59717fa366dc78d4e7787df0db0f[m
+Merge: eb4762a 346bf5f
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Fri Sep 20 16:34:09 2024 -0300
+
+    Merge branch 'feat/create-server' of https://github.com/negoNegoso/iec-git into feat/create-server
+
+[33mcommit eb4762af42e2730e7bf5d4e6f3e5976e70e012a4[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Fri Sep 20 16:27:29 2024 -0300
+
+    alterado msg
+
+[33mcommit 346bf5f2827c3fa839c7a99c61911829248d17f8[m
+Author: Yuri Moreira Villanova <37721359+negoNegoso@users.noreply.github.com>
+Date:   Fri Sep 20 16:23:41 2024 -0300
+
+    Update Routing.kt
+
+[33mcommit 70316c0bb7f0acfc5e2f36a313fad5c757b6cdaf[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Fri Sep 20 16:18:50 2024 -0300
+
+    clear: remove files
+
+[33mcommit 8f1d38fe81e0340c3ba4aa83cf8e30a8c231bdfd[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Fri Sep 20 16:17:59 2024 -0300
+
+    feat: create server
+
+[33mcommit 1bebf1dbe10ecf45a09f4579d9122ffaa4b3b37f[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Thu Sep 19 16:25:41 2024 -0300
+
+    Adiciona testes
+
+[33mcommit 48578b29d8bc6d4181cfe53bcabd3ae47c375c4a[m
+Author: Yuri Moreira Villanova <37721359+negoNegoso@users.noreply.github.com>
+Date:   Thu Sep 19 15:55:57 2024 -0300
+
+    Create README.md
+
+[33mcommit 218d1ba9855daab80e0e13e433e90f62040667d1[m
+Author: yvillan <114770837+yvillan@users.noreply.github.com>
+Date:   Thu Sep 19 15:41:53 2024 -0300
+
+    initial commit
